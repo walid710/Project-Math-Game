@@ -1,0 +1,45 @@
+﻿  Project Math Game.cpp
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsString.h(54,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsString.h(59,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsString.h(71,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsString.h(208,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsString.h(339,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsString.h(387,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsUtil.h(78,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%20Math%20Game.cpp')
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuestion.h(33,7): warning C4240: nonstandard extension used: access to 'clsQuestion::enQuestionsLevel' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Math%20Game.cpp')
+      D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuestion.h(26,7):
+      see declaration of 'clsQuestion::enQuestionsLevel'
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuestion.h(40,7): warning C4240: nonstandard extension used: access to 'clsQuestion::enOperationType' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Math%20Game.cpp')
+      D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuestion.h(24,7):
+      see declaration of 'clsQuestion::enOperationType'
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuizz.h(38,7): warning C4240: nonstandard extension used: access to 'clsQuizz::enQuestionsLevel' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Math%20Game.cpp')
+      D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuizz.h(26,7):
+      see declaration of 'clsQuizz::enQuestionsLevel'
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuizz.h(45,7): warning C4240: nonstandard extension used: access to 'clsQuizz::enOperationType' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Math%20Game.cpp')
+      D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsQuizz.h(28,7):
+      see declaration of 'clsQuizz::enOperationType'
+  
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsDataProcessing.h(79,1): warning C4715: 'clsDataProcessing::_GenerateQuestion': not all control paths return a value
+D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\clsDataProcessing.h(109,1): warning C4715: 'clsDataProcessing::GetOpTypeSymbol': not all control paths return a value
+  Project Math Game.vcxproj -> D:\مشاريع OOP\مشروع (Math Game)\Project Math Game\x64\Debug\Project Math Game.exe

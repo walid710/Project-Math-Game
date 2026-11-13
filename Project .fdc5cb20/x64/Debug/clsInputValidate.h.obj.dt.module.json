@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project .fdc5cb20\\x64\\Debug\\clsInputValidate.obj",
+            "outputs": [
+                "Project .fdc5cb20\\x64\\Debug\\clsInputValidate.h.obj.dt.module.json",
+                "Project .fdc5cb20\\x64\\Debug\\clsInputValidate.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

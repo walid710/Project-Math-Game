@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project .fdc5cb20\\x64\\Debug\\clsShowGameOverScreen.obj",
+            "outputs": [
+                "Project .fdc5cb20\\x64\\Debug\\clsShowGameOverScreen.h.obj.dt.module.json",
+                "Project .fdc5cb20\\x64\\Debug\\clsShowGameOverScreen.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
